@@ -43,7 +43,7 @@ const rutas = [
   ['/retiros/nuevo', DetalleRetiro],
   ['/planificaciones', MisPlanificaciones],
   ['/planificaciones/nueva', NuevaPlanificacion],
-  
+  ['/perfil', Perfil]
 ];
 
 export default function App() {
